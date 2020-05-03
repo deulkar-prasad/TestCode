@@ -1,0 +1,63 @@
+2020-02-19 16:07:31,863 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:07:52,831 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:08:06,982 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:08:11,101 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-19 16:08:32,846 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:08:37,018 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-19 16:18:16,808 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:18:21,648 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-19 16:18:21,661 - StepDefination.Login -INFO - ********** Entering Username and password ********************
+2020-02-19 16:18:42,332 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:18:46,459 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-19 16:18:46,468 - StepDefination.Login -INFO - ********** Entering Username and password ********************
+2020-02-19 16:19:07,727 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:19:15,252 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-19 16:19:35,572 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:19:39,844 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-19 16:40:06,235 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-19 16:40:10,713 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-20 11:46:55,850 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-20 11:48:13,633 - StepDefination.Login -INFO - ******** Launching browser*********
+2020-02-20 11:48:17,492 - StepDefination.Login -INFO - ********Clicking on LoginCTA from Homepage*********
+2020-02-20 11:48:17,508 - StepDefination.Login -INFO - ********** Entering Username and password ********************
+2020-02-20 12:50:50,152 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-20 12:50:56,842 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-20 12:50:57,803 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-20 12:51:07,946 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-20 12:55:38,095 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-20 12:55:44,492 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-20 12:55:45,751 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-20 12:55:55,918 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-20 13:08:02,765 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-20 13:08:06,588 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-20 13:08:07,688 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-20 13:08:17,906 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-20 15:23:41,044 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-20 15:23:45,559 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-20 15:23:47,495 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-20 15:23:58,599 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-20 15:35:03,880 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-20 15:35:09,647 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-20 15:35:11,051 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-20 15:35:21,218 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-20 16:05:13,129 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-20 16:05:16,573 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-20 16:05:17,951 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-20 16:05:28,420 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-21 18:15:38,631 - StepDefination.Homepage -INFO - ******** Home Page is visible *********
+2020-02-21 18:17:56,136 - StepDefination.Homepage -INFO - ******** Home Page is visible *********
+2020-02-21 18:18:16,097 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-21 18:18:19,729 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-21 18:18:22,242 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-21 18:18:32,564 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-21 18:20:47,537 - StepDefination.Homepage -INFO - ******** Home Page is visible *********
+2020-02-21 18:21:07,653 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-21 18:21:11,511 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-21 18:21:13,837 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-21 18:21:24,267 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-02-21 18:24:13,545 - StepDefination.Homepage -INFO - ******** Home Page is visible *********
+2020-02-21 18:24:34,281 - StepDefination.Login -INFO - ******** Launching browser  *********
+2020-02-21 18:24:37,370 - StepDefination.Login -INFO - ******** User Clicked on Login CTA from Home Page *********
+2020-02-21 18:24:39,932 - StepDefination.Login -INFO - *** User Entered Referrer Username and password ****
+2020-02-21 18:24:50,147 - StepDefination.Login -INFO - *** User clicked on LoginCTA from Login Pop-up ****
+2020-04-01 15:08:04,353 - StepDefination.Login -INFO - ******** Launching browser  *********
